@@ -1,15 +1,3 @@
-"""
-Gera um CSV FICTÍCIO de vendas de produtos eletrônicos.
-
-Os dados são sintéticos (criados com numpy), mas seguem padrões realistas:
-- sazonalidade (Black Friday e Natal vendem mais);
-- produtos mais populares aparecem com mais frequência;
-- alguns valores nulos e linhas duplicadas, para praticar limpeza de dados.
-
-Uso:
-    python src/gerar_dados.py
-"""
-
 from pathlib import Path
 
 import numpy as np

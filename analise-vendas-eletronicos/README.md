@@ -93,4 +93,4 @@ Para apenas salvar os gráficos, sem abrir janelas: `python src/analise_vendas.p
 
 ## 👤 Autor
 
-**Seu Nome** · [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/SEU-USUARIO)
+**Seu Nome** · [LinkedIn](www.linkedin.com/in/juliagabrieladev) · [GitHub](https://github.com/onthejulia)
